@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+'''
+Author: Leo
+Copyright 2019, github/LeoAndGit>
+
+'''
+
 import serial
 import time
 class MySerial(serial.Serial):

@@ -1,8 +1,8 @@
 
 # -*- coding: utf-8 -*-
 '''
-Author: Liu Zheyuan
-Copyright 2019 Liu Zheyuan, github/LeoAndGit>
+Author: Leo
+Copyright 2019, github/LeoAndGit>
 
 '''
 
