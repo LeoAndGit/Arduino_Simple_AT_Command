@@ -1,5 +1,7 @@
 
 /* AT Command Read Example
+Author: Leo
+Copyright 2019, github/LeoAndGit>
 */
 
 String inputString = "";         // a string to hold incoming data
